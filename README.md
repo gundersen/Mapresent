@@ -4,7 +4,9 @@ Mapresent aims to be a geographic-focused presentation tool. The user will be ab
 
 Check out the announcement blog post: http://mapbox.com/blog/mapresent-presentation-tool-ipad/
 
-The sort of thing you'd get out of this would be, say, a YouTube-uploaded HD video of a map presentation that goes like this:
+The sort of thing you'd get out of this would be, say, a YouTube-uploaded HD video of a map **presentation** that goes like this:
+
+
 
  * Throughout, a voice track narrates the presentation.
  * Start with 3D view of the world, Blue Marble theme.
